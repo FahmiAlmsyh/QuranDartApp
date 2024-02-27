@@ -1,0 +1,18 @@
+[
+    {
+        "nomor" : "1",
+        "title" : "Dzikir Setelah Sholat",
+        "description": "Dibaca setelah sholat"
+    },
+    {
+        "nomor" : "2",
+        "title" : "Dzikir Pagi",
+        "description": "Dibaca di pagi hari"
+
+    },
+    {
+        "nomor" : "3",
+        "title" : "Dzikir Petang",
+        "description": "Dibaca di sore hari"
+    }
+]
